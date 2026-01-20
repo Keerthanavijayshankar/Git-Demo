@@ -1,5 +1,6 @@
 My first commit in git
 There is a main branch
 
-Feature/dev2 branch is created
 Feature/dev1 branch is created
+Feature/dev2 branch is created
+diff command demo
